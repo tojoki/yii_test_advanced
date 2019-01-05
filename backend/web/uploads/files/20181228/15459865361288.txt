@@ -1,0 +1,81 @@
+https://wenku.baidu.com/view/c00f8499f01dc281e43af09a.html
+https://www.yiichina.com/doc/guide/2.0/db-dao
+
+
+
+
+yii2
+配置虚拟主机virtual box
+workerman 
+反向代理
+phpstorm phpstrom+xdebug+chrome+postman调试工具搭建 https://www.cnblogs.com/gaoxu387/p/8028967.html
+phpstorm汉化 https://baijiahao.baidu.com/s?id=1597259071377688746&wfr=spider&for=pc
+待学习.php
+websocket
+
+
+
+
+tp5修改密码处没判断是否重复
+
+
+
+https://www.yiichina.com/doc/guide/2.0
+https://www.yiichina.com/doc/guide/2.0/db-active-record#new-instance-life-cycle
+https://www.yiichina.com/doc/guide/2.0/structure-models#safe-attributes
+http://www.kuitao8.com/20151125/4145.shtml
+https://download.csdn.net/download/carlton1989/6779775
+
+应用结构
+	结构概述（Overview）
+	入口脚本（Entry Scripts）
+	应用（Applications）
+	应用组件（Application Components）
+	控制器（Controllers）
+	模型（Models）
+	视图（Views）
+	模块（Modules）
+	过滤器（Filters）
+	小部件（Widgets）
+	前端资源（Assets）
+	扩展（Extensions）
+
+请求处理（Handling Requests）
+	运行概述（Overview）
+	引导（Bootstrapping）
+	路由引导与创建 URL（Routing and URL Creation）
+	请求（Requests）
+	响应（Responses）
+	Sessions and Cookies
+	错误处理（Handling Errors）
+	日志（Logging）
+
+关键概念（Key Concepts）
+	组件（Components）
+	属性（Properties）
+	事件（Events）
+	行为（Behaviors）
+	配置（Configurations）
+	别名（Aliases）
+	类自动加载（Class Autoloading）
+	服务定位器（Service Locator）
+	依赖注入容器（Dependency Inje
+
+配合数据库工作（Working with Databases）
+	活动记录（Active Record）
+	数据库迁移（Migrations）
+	Sphinx
+	Redis（yii2-redis）
+	MongoDB
+	ElasticSearch
+
+接收用户数据
+显示数据
+安全
+缓存
+RESTful Web 服务
+开发工具
+测试
+高级专题
+小部件
+助手类
